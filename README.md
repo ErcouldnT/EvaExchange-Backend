@@ -24,9 +24,9 @@ Development utilities:
 
 ## Setup
 
-```
-npm install
-```
+1.  Create your `.env` file based on `.env.sample`
+2.  `docker-compose up -d` for initializing db
+3.  `npm install`
 
 ## Lint
 
